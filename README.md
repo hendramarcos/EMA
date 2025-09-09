@@ -1,3 +1,9 @@
+## License
+
+This project is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 Ringkasan Peningkatan Sistem
 Saya telah berhasil mengembangkan sistem manajemen traffic light yang jauh lebih canggih dengan konsep Multi-Agent. Berikut adalah ringkasan peningkatan yang telah dibuat:
 🎯 Peningkatan Utama:
