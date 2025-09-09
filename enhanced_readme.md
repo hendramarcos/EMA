@@ -1,5 +1,9 @@
 # Enhanced Multi-Agent Traffic Light Management System
 
+## License
+Licensed under CC BY 4.0  
+See [LICENSE](LICENSE) file for details.
+
 ## Overview
 
 This repository contains an advanced multi-agent reinforcement learning system for intelligent traffic light management. The system represents a significant improvement over traditional single-agent approaches, incorporating sophisticated coordination mechanisms, comprehensive reward functions, and detailed performance monitoring.
